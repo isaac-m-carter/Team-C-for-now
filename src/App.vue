@@ -1,6 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+import Rubi from './components/Rubi_Component.vue'
+import Michael from './components/Michael_Component.vue'
+import Isaac from './components/Isaac_Component.vue'
+import Yvonne from './components/Yvonne_Component.vue'
+import Keiran from './components/Keiran_Component.vue'
 </script>
 
 <template>
