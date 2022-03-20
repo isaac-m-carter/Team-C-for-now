@@ -16,7 +16,7 @@ import Keiran from './components/Keiran_Component.vue'
   </header>
 
   <main>
-    <TheWelcome />
+    <Isaac />
   </main>
 </template>
 
