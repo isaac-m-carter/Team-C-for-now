@@ -8,8 +8,9 @@ import Keiran from './components/Keiran_Component.vue'
 
 <template>
 
-
   <main>
+    
+    <Isaac />
     <Yvonne />
   </main>
 </template>
