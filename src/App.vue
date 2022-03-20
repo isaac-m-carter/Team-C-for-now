@@ -7,8 +7,11 @@ import Keiran from './components/Keiran_Component.vue'
 </script>
 
 <template>
+
   <main>
+    
     <Isaac />
+    <Yvonne />
   </main>
 </template>
 
